@@ -8,7 +8,7 @@ public class Task7 {
      */
 
     public static void main(String[] args) {
-        int n, firstDigit, secondDigit, result;
+        int n, firstDigit, secondDigit;
         final int RANK_TEN = 10;
 
         //Получаем от пользователя исходное число
